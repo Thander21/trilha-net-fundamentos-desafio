@@ -1,6 +1,9 @@
 # DIO - Trilha .NET - Fundamentos
 www.dio.me
 
+##Projeto realizado em 20/04/2024##
+Rahman Brussolo
+
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de fundamentos, da trilha .NET da DIO.
 
